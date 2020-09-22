@@ -18,15 +18,14 @@ I work in a healthcare insurance company and other companies come and check how 
 In order to predict the premiuim cost of each employee, I used linear regression model and they will be using this for their calculation for the upcoming employees. I will be using supervised learning as we are given the labeled datasets and also will be developing test and training sets to check whether the overall regression model works. 
 
 ### Data
-Dataset: https://www.kaggle.com/teertha/ushealthinsurancedataset
-The individual who was using this Dataset in Kaggle was trying to predict the premium prices of individuals throughout the U.S.
+Dataset: https://www.kaggle.com/teertha/ushealthinsurancedataset. This Dataset in Kaggle was used to predict the premium prices of individuals throughout the U.S.
 
 Columns: 
 - age, 
 - gender, 
 - children, 
 - BMI (Body Mass Index) 
-- smoker (checks if smoker or not, 
+- smoker (checks if individual smokes or not) 
 - charges. 
 - (Region field was dropped) Therefore, dataset had **6 columns and 1338 rows**
 
