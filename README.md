@@ -19,7 +19,7 @@ In order to predict the premiuim cost of each employee, I used linear regression
 
 ### Data
 Dataset: https://www.kaggle.com/teertha/ushealthinsurancedataset
-The individual who was using this Dataset in Kaggle was trying to predict the premium prices in the entire USA considering the different factors 
+The individual who was using this Dataset in Kaggle was trying to predict the premium prices of individuals throughout the U.S.
 
 Columns: 
 - age, 
