@@ -47,6 +47,6 @@ Libraries    : pandas, matplotlib, seaborn, statsmodel api, scikit learn
 </pre>
 
 <pre>
-Assignment Submitted     : September 2020
+Last Updated : September 2020
 </pre>
 
