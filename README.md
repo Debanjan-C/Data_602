@@ -18,7 +18,7 @@ I work in a healthcare insurance company and other companies come and check how 
 In order to predict the premiuim cost of each employee, I used linear regression model and they will be using this for their calculation for the upcoming employees. I will be using supervised learning as we are given the labeled datasets and also will be developing test and training sets to check whether the overall regression model works. 
 
 ### Data
-Dataset: https://www.kaggle.com/teertha/ushealthinsurancedataset
+Dataset: <a href=https://www.kaggle.com/teertha/ushealthinsurancedataset></a>
 The individual who was using this Dataset in Kaggle was trying to predict the premium prices in the entire USA considering the different factors 
 
 Columns: age, gender, children, smoker, charges. (Region field was dropped) So, dataset had 6 columns and 1338 rows
@@ -30,7 +30,7 @@ I feel one of the challenge was the outliers part there were so many and it seem
 I feel that this model does evaluate we have a positive linear relationship when all of the x-values are taken into the model. However, I also feel that our residual plot and regression plots were not the best to evaluate the trends, but that is a plan to improve in the long run. Possibly, being able to evaluate which outliers or leverage points to remove, they may look relatively better. In general, medical insurance companies could look for more data into family medical history and other details. Those other factors could be taken into consideration next time. My R-squared value is 0.746 or 74.6% reliability of the x-variable which is somewhat reliable. The closer the value is to 1 the better.
 
 <pre>
-Contrubuter  : Debanjan Chowdhury
+Contributer  : Debanjan Chowdhury
 </pre>
 
 <pre>
@@ -43,7 +43,3 @@ Libraries    : pandas, matplotlib, seaborn, statsmodel api, scikit learn
 Assignment Submitted     : September 2020
 </pre>
 
-<pre>
-Dataset: <a href = https://www.kaggle.com/teertha/ushealthinsurancedataset</a>
-
-</pre>
