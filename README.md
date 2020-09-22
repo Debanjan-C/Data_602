@@ -21,7 +21,14 @@ In order to predict the premiuim cost of each employee, I used linear regression
 Dataset: https://www.kaggle.com/teertha/ushealthinsurancedataset
 The individual who was using this Dataset in Kaggle was trying to predict the premium prices in the entire USA considering the different factors 
 
-Columns: age, gender, children, smoker, charges. (Region field was dropped) So, dataset had 6 columns and 1338 rows
+Columns: 
+- age, 
+- gender, 
+- children, 
+- BMI (Body Mass Index) 
+- smoker (checks if smoker or not, 
+- charges. 
+- (Region field was dropped) Therefore, dataset had **6 columns and 1338 rows**
 
 ## Challenges & Limitations
 I feel one of the challenge was the outliers part there were so many and it seemed that due to the fact that we had multiple x values, it was difficult to figure out where we can remove the outliers. If we look at the outliers with respect to x1 then I felt that we may get rid of some core data in another x value. Therefore, that was somthing I had difficulty with.
