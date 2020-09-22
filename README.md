@@ -18,7 +18,7 @@ I work in a healthcare insurance company and other companies come and check how 
 In order to predict the premiuim cost of each employee, I used linear regression model and they will be using this for their calculation for the upcoming employees. I will be using supervised learning as we are given the labeled datasets and also will be developing test and training sets to check whether the overall regression model works. 
 
 ### Data
-Dataset: <a href=https://www.kaggle.com/teertha/ushealthinsurancedataset></a>
+Dataset: https://www.kaggle.com/teertha/ushealthinsurancedataset
 The individual who was using this Dataset in Kaggle was trying to predict the premium prices in the entire USA considering the different factors 
 
 Columns: age, gender, children, smoker, charges. (Region field was dropped) So, dataset had 6 columns and 1338 rows
